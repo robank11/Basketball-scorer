@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=P1.0 Pin=U1-1
+Added Pin To Net: NetName=P1.1 Pin=U1-2
+Added Pin To Net: NetName=P1.2 Pin=U1-3
+Added Pin To Net: NetName=P1.3 Pin=U1-4
+Added Pin To Net: NetName=P1.5 Pin=U1-6
+Added Pin To Net: NetName=P1.6 Pin=U1-7
+Added Pin To Net: NetName=P3.2 Pin=U1-12
+Added Pin To Net: NetName=P3.3 Pin=U1-13
+Added Pin To Net: NetName=P1.4 Pin=U1-5
+Added Net: Name=P1.4
+Added Room: Name=Sheet1
